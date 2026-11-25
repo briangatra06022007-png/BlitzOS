@@ -1,0 +1,5 @@
+- Reposory aktif: univese, multiverse
+- paket DE & DM: xfce4, xfce4-goodies, lightdm, lightdm-gtk-greeter, xfce4-terminal, network-manager-gnome
+- Default Display Manager: /usr/sbin/lightdm
+- Pembersihan paket berat: ubuntu-desktop, gnome-shell, gdm3, libreoffice*, rhythmbox*, thunderbird*, game bawaan
+- Paket live & installer dipastikan terpasang: ubiquity, ubiquity-fronted-gtk, casper
