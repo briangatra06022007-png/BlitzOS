@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=First Login Setup
+Exec=/usr/local/bin/first-login.sh
+X-GNOME-Autostart-enabled=true
